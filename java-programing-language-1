@@ -1,0 +1,292 @@
+# Java Programing language
+
+[Jmix - 企業級Web快速開發框架](https://www.newmediamax.com/article/1ivjs6uifrz8m.html)
+目前市面上有不少非常流行的框架或者庫，比如Spring Boot ， Express JS ， React/Angular， 但是這些框架只專注於解決技術問題，而並非為特定的業務領域定制，比如企業需要的電子商務網站、業務線系統或者企業資源管理系統。
+
+[Python和Java語言在機器學習領域的應用比較與優化](https://www.newmediamax.com/article/1j081rxjiagx4.html)
+隨著機器學習技術的迅速發展和廣泛應用，選擇合適的編程語言成為了研究和實踐機器學習的重要問題。 Python和Java作為兩種常見的編程語言，在機器學習領域中具有廣泛的應用。
+
+[在排序測試中，計算方法顯示P值常用的方法有幾種？](https://www.newmediamax.com/article/1j0c5r66p4b3t.html)
+然而，計算表示統計顯著性的P值的常用方法在要準確估計小P值時需要非常大量的排列，這在計算上是昂貴的並且通常是不可行的。
+
+[你怎麼理解Spark RDD Cache緩存？](https://www.newmediamax.com/article/1j0st6bs3o858.html)
+這樣做的目的是為了當一個節點Shuffle失敗了避免重新計算整個輸入。但是，在實際使用的時候，如果想重用數據，仍然建議調用persist或cache。
+
+[阿里一面：說一說Java、Spring、Dubbo三者SPI機制的原理和區別](https://www.newmediamax.com/article/1is9va58vboy3.html)
+其實我之前寫過一篇類似的文章，但是這篇文章主要是剖析dubbo的SPI機制的源碼，中間只是簡單地介紹了一下Java、Spring的SPI機制，並沒有進行深入，所以本篇就來深入聊一聊這三者的原理和區別。
+
+[程序員的人工智能AI-Github Copilot](https://www.newmediamax.com/article/1iss1tbbpalup.html)
+隨著ChatGpt-4的發布，人工智能再也不是人工智障了。雖然它是一個用型的工具，但是在代碼的代碼建議、補全、bug 修復和新功能實現等功能方面也具有不俗的表現。
+
+[以後程序員將要失業了，這是chatgpt 三秒鐘寫出的微信小程序代碼](https://www.newmediamax.com/article/1iq80b488w3kc.html)
+我們會根據您的要求，編寫出對應小程序的代碼，並在小程序上，實現您要求的功能和功能，幫助您取得更好的體驗。
+
+[在Python和Java中使用並行計算技術的研究與應用](https://www.newmediamax.com/article/1j07xoxmlnqcj.html)
+線程是輕量級的執行單元，可以在同一進程內共享數據和資源，Python和Java都支持線程級並行，但在實現方式和技術支持上有一些差異。 def compute_square:result = number * number。
+
+[Bito AI——智能編程輔助軟件，提升10倍開發效率！](https://www.newmediamax.com/article/1iwdb8l7zhhk5.html)
+前言Bito是繼前一陣非常火的Github Copilot、Cursor、CodeWhisperer等AI智能編程產品之後，其號稱比ChatGPT快10倍的又一智能編程輔助軟件，今天就來聊一聊它到底有多強大，能給我們程序員帶來什麼不一樣的體驗和改變。
+
+[關於Java已死，看看國外開發者怎麼說的](https://www.newmediamax.com/article/1j3jr8wb5mkh4.html)
+博主在瀏覽medium 社區時，發現了一篇點贊量1.5k 的文章，名稱叫《Java is Dead — 5 Misconceptions of developers that still think Java is relevant today!
+
+[聊聊如何運用JAVA註解處理器（APT）](https://www.newmediamax.com/article/1iuy1ktn9hmoz.html)
+APT獲取註解及生成代碼都是在代碼編譯時候完成的，相比反射在運行時處理註解大大提高了程序性能。因此需要了解什麼是註解，不過對於java開發人員來說，註解應該是耳熟能詳了，這邊就不再論述。
+
+[Oracle推出改版Java SE訂閱規則，收費激增](https://www.newmediamax.com/article/1iniebjjctaf8.html)
+House of Bricks 首席執行官Nathan Biggs 估計，一家擁有250 名員工、20 個Java 桌面用戶和8 個Java 安裝處理器的公司在舊模式下每年要支付3000 美元，在新的訂閱模式下，每年支出增長到45000 美元，增長了1400%。
+
+[使用doop識別最近commons text漏洞的污點信息流](https://www.newmediamax.com/article/1ixyjfl4caazl.html)
+本文基於筆者對doop靜態程序分析框架源代碼和規則學習，並結合對目前漏洞公開技術細節的學習，修改增強doop app only模式下的分析規則後，實現通過doop工具識別commons text rce漏洞。
+
+[jpaas低代碼開發平台問世，它究竟有什麼功能和應用](https://www.newmediamax.com/article/1iwe9g8nweyhz.html)
+JPAAS企業級微服務開發平台，是紅迅軟件十年企業開發平台技術沉澱，結合主流的微服務架構，幫助企業實現中台型的業務轉型，是真正意義上的實幹型的流程、單據、組織、應用、門戶、應用集成等為一體的微服務架構中台級的系統。
+
+[quarkus實戰之六：配置](https://www.newmediamax.com/article/1j1vawgs9319f.html)
+本文是《quarkus實戰》系列的第六篇，咱們來掌握一個常用知識點:配置。如同SpringBoot中的application.properties文件，對一個quarkus應用來說，配置是其重要的組成部分，web端口、數據庫這些重要信息都放在配置中，咱們在編碼時也會將一些業務參數做成配置，而不是硬編碼。
+
+[長篇圖解java反射機制及其應用場景](https://www.newmediamax.com/article/1i6nagmcrz2f7.html)
+在java的面向對象編程過程中，通常我們需要先知道一個Class類，然後new 類名方式來獲取該類的對象。
+
+[Flink架構剖析](https://www.newmediamax.com/article/1j0ldnafhljcn.html)
+Flink 運行時由兩種類型的進程組成：一個JobManager 和一個或者多個TaskManager。 Flink運行時集群架構ClientFlink Client是Flink程序提交的客戶端，負責將用戶提交的Flink程序進行預處理，並提交到Flink集群中處理。
+
+[阿里巴巴官方上線！號稱國內Java八股文天花板（終極版）首次開源](https://www.newmediamax.com/article/1ix6656zsk5qn.html)
+銅三鐵四已經結束了，但還是有很多Java程序員沒有找到工作或者成功跳槽，跳槽成功的也只是從一個坑中，跳入另一個坑中…
+
+[java反序列化預備全知](https://www.newmediamax.com/article/1ipbnnucejign.html)
+在學習Java反序列化之前我們先要了解一下Java的輸入輸出流:java的IO流分為了文件IO流和對象IO流，從名字上就可以看出來一個是用來對文件進行輸入和輸出，一個是對對象進行輸入和輸出。
+
+[Java官方筆記1編寫運行Java程序](https://www.newmediamax.com/article/1irczxl6874fv.html)
+你可能已經迫不及待想安裝Java，寫個Java程序跑起來了。但是在這之前，有些概念需要提前了解，因為Java跟C、C++和Python都有點不一樣。
+
+[Java 故障診斷- 使用日誌調查問題](https://www.newmediamax.com/article/1iuv3co7r731h.html)
+當你使用debugger 時，正如我們在前面文章中討論的那樣，你的注意力主要集中在現在。正如我們在後續的文章討論thread dump 時所說的，命名應用程序的線程是一個很好的做法，這樣你在調查一個案例時就可以更容易地識別它們。
+
+[BI是報表？ BI是可視化？ BI到底是什麼？](https://www.newmediamax.com/article/1ipjg0jhu036v.html)
+做過JAVA 、.NET 、Object-C 、JS 等等技術開發，業務軟件系統平台開發。做報表基本上就是JSP、ASP 腳本語言在前端嵌套HTML 做循環輸出，報表樣式很原生很醜陋，稍微複雜一點的表格報表樣式都需要用JS 來調整。
+
+[全網最硬核JVM 內存解析- 1.從Native Memory Tracking 說起](https://www.newmediamax.com/article/1iwd4f08iboe3.html)
+JVM 元空間設計什麼是元數據，為什麼需要元數據什麼時候用到元空間，元空間保存什麼4.2.1. 什麼時候用到元空間，以及釋放時機4.2.2. 元空間保存什麼元空間的核心概念與設計元空間的整體配置以及相關參數元空間上下文MetaspaceContext 虛擬內存空間節點列表VirtualSpaceList 虛擬內存空間節點VirtualSpaceNode 與CompressedClassSpaceSize MetaChunk ChunkHeaderPool 池化MetaChunk 對象ChunkManager 管理空閒的MetaChunk 類加載的入口SystemDictionary 與保留所有ClassLoaderData 的ClassLoaderDataGraph 每個類加載器私有的ClassLoaderData 以及ClassLoaderMetaspace 管理正在使用的MetaChunk 的MetaspaceArena 元空間內存分配流程類加載器到MetaSpaceArena 的流程從MetaChunkArena 普通分配- 整體流程從MetaChunkArena 普通分配- FreeBlocks 回收老的current chunk 與用於後續分配的流程從MetaChunkArena 普通分配- 嘗試從FreeBlocks 分配從MetaChunkArena 普通分配- 嘗試擴容current chunk 從MetaChunkArena 普通分配- 從ChunkManager 分配新的MetaChunk 從MetaChunkArena 普通分配- 從ChunkManager 分配新的MetaChunk - 從VirtualSpaceList 申請新的RootMetaChunk 從MetaChunkArena 普通分配- 從ChunkManager 分配新的MetaChunk - 將RootMetaChunk 切割成為需要的MetaChunk MetaChunk 回收- 不同情況下， MetaChunk 如何放入FreeChunkListVector ClassLoaderData 回收元空間分配與回收流程舉例首先類加載器1 需要分配1023 字節大小的內存，屬於類空間然後類加載器1 還需要分配1023 字節大小的內存，屬於類空間然後類加載器1 需要分配264 KB 大小的內存，屬於類空間然後類加載器1 需要分配2 MB 大小的內存，屬於類空間然後類加載器1 需要分配128KB 大小的內存，屬於類空間新來一個類加載器2，需要分配1023 Bytes 大小的內存，屬於類空間然後類加載器1 被GC 回收掉然後類加載器2 需要分配1 MB 大小的內存，屬於類空間元空間大小限制與動態伸縮CommitLimiter 的限制元空間可以commit 的內存大小以及限制元空間佔用達到多少就開始嘗試GC 每次GC 之後，也會嘗試重新計算_capacity_until_GC jcmd VM.metaspace 元空間說明、元空間相關JVM 日誌以及元空間JFR 事件詳解jcmd VM.metaspace 元空間說明元空間相關JVM 日誌元空間JFR 事件詳解jdk.MetaspaceSummary 元空間定時統計事件jdk.MetaspaceAllocationFailure 元空間分配失敗事件jdk.MetaspaceOOM 元空間OOM 事件jdk.MetaspaceGCThreshold 元空間GC 閾值變化事件jdk.MetaspaceChunkFreeListSummary 元空間Chunk FreeList 統計事件。注意，這個埋點，並不是完全沒有消耗的，我們後面會看到。
+
+[零基礎java自學編程入門視頻推薦](https://www.newmediamax.com/article/1iifn7qoqxxkp.html)
+市面上有許多宣傳零基礎通過自學Java最終找到一份Java開發的工作，其實嘗試的人很多，最後大半都會失敗。
+
+[java數據類型的轉換以及精度丟失](https://www.newmediamax.com/article/1iw8lk329uqeg.html)
+float存儲需求是4字節， 其中1位最高位是符號位，中間8位表示階位，後32位表示值float的範圍: -2^128 ~ +2^128，也即-3.40E+38 ~ +3.40E+38 float的精度: 2^23 = 8388608，一共七位，這意味著最多能有7位有效數字，但絕對能保證的為6位，也即float的精度為6~7位有效數字double存儲需求是8字節，其中1位最高位是符號位，中間11位表示階位，後52位表示值取值範圍: -2^1024 ~ +2^1024，也即-1.79E+308 ~ +1.79E+308 精度: 2^52 = 4503599627370496，一共16位，同理，double的精度為15~16位long數據類型是64位有符號Java原始數據類型。
+
+[Nacos架構與原理深度分析](https://www.newmediamax.com/article/1iys1uos88heq.html)
+Nacos 幾乎支持所有主流語言， 其中Java/Golang/Python 已經支持Nacos 2.0 長鏈接協議， 能。
+
+[谷歌Bard更新支持代碼|兩款開源GPT|GPT整合網](https://www.newmediamax.com/article/1iwckztnzlpa2.html)
+Google Bard - 仍僅支持英文對話。谷歌的AI - Bard在4月21日更新了對代碼的支持，目前已經支持20多種編程語言，包含。
+
+[spring data系列之spring data jpa](https://www.newmediamax.com/article/1j39bwwwx0cvw.html)
+在Spring Data JPA 中，對於定義符合規範的Dao 層接口，我們只需要遵循以下幾點就可以了:1.創建一個Dao 層接口，並實現JpaRepository 和JpaSpecificationExecutor。
+
+[Java17的性能優勢是否足以讓它取代Java8？](https://www.newmediamax.com/article/1ixdc5h8yloot.html)
+隨著時間的推移，Java不斷地進行更新和發展，以滿足不斷變化的業務需求。目前，Java8已經成為了一個非常成熟的版本，並且在各個領域廣泛應用。
+
+[零基礎轉行java培訓學習該怎麼做](https://www.newmediamax.com/article/1igm0a6jkapzg.html)
+零基礎轉行java培訓學習該怎麼做？
+
+[3年疫情，讓我明白了體制內飯碗的珍貴](https://www.newmediamax.com/article/1iiac4b0027fi.html)
+這3年，可以說是最艱難的3年。 3年來，很多人沒出過省，到旅遊景點去過;而我，這3年，終於讓我明白了體制內的珍貴和自己飯碗的不易。
+
+[硬核！阿里出品2023版Java架構師面試指南，涵蓋Java所有核心技能](https://www.newmediamax.com/article/1iqguqldlln9r.html)
+打開Boss直拒一排已讀不回，回的基本都是外包，薪資還給的不高，對技術水平要求也遠超從前;感覺Java一個初中級崗位有上千人同時競爭，內捲程度簡直懷疑人生。
+
+[M1 Pro Java主力開發軟件分享](https://www.newmediamax.com/article/1inx1dcs2nm6b.html)
+上台15款mac電池鼓包之後就一直想著換台電腦，21款pro外觀好看性價比拉滿，雙11原價14999打折只要11499直接貸款拿下，新電腦給我最直接的感覺就是快，另外雖然屏幕小點但是劉海屏佔比更大，使用起來不覺得小，缺點就是有億點點貴。
+
+[[開源]基於Java 的在線網盤系統，支持多種存儲源，支持文件預覽](https://www.newmediamax.com/article/1il896onkdmbd.html)
+支持S3 協議， 阿里雲OSS， FTP， 華為雲OBS， 本地存儲， MINIO， OneDrive 國際/家庭/個人版/世紀互聯版/SharePoint， ， 七牛雲KODO， 騰訊雲COS， 又拍雲USS.
+
+[iPhone歷史經典機型，不同時代前後差異對比極大](https://www.newmediamax.com/article/1isq847phpfy8.html)
+iPhone4S發佈於2011年10月5日發布，在那個國產還處於山寨機橫行的時代，山寨4s到處都是，最常見的是蘋果的外觀，Java的系統，當時4S的首發價格16G為4988元，32G版本為5888元，64G版本為6788元，那時工資普遍1000到2000元一月，確實有點捨不得下手。
+
+[Windows軟件開發框架：MFC 、WinForm 、WPF、WinUI、MAUI 深入比較](https://www.newmediamax.com/article/1j2za3a42fw2t.html)
+1．前言2023年，在俄烏地緣政治衝突和自然災害等非經濟因素衝擊下，全球經濟復甦將面臨更大壓力，經濟增速可能進一步降至2.5%以下，明顯低於國際貨幣基金組織目前測算的2022年3.2%的全球經濟增速。年初.NET工程師的求職者反饋不好找工作，尤其是B/S開發，C/S開發稍微好點。
+
+[達內教育7月就業報告:2000人就業,最高薪酬26000元,近六成非計算機專業](https://www.newmediamax.com/article/1j7mi9i0qltfc.html)
+日前,達內教育發布了2023年7月份的就業報告,共計2000人成功就業,最高薪酬為26000元。
+
+[JDK8-20新特性全面總結，3分鐘快速掌握！](https://www.newmediamax.com/article/1iwuf31br9pvc.html)
+從JDK8 到JDK20 更新了很多新特性，實用性都特別強，極大地提高了編碼效率。雖說不一定有升級版本的需要，但作為程序員，保持學習和更新的態度還是有必要的。本篇文章，一起來全面了解JDK8 至JDK20 版本的新特性。
+
+[JAVA如何操作MySQL數據庫](https://www.newmediamax.com/article/1io2c7vh6ya7o.html)
+總體步驟:1) 獲取驅動。 Connection 接口，代表一個連接對象，具體的實現類由數據庫的廠商實現使用DriverManager類的靜態方法，getConnection可以獲取數據庫的連接。
+
+[Java 20發布了，快來看看有什麼新功能](https://www.newmediamax.com/article/1itj0y4iy16p4.html)
+自Java 19 發布以來已經過去了六個月，因此又到了Java 功能噴湧而出的時候了。此外還留下一個小漏洞——如果添加了一個else-if 分支，卻沒有給formatted 分配任何內容會怎麼樣呢?
+
+[Windows下安裝Scala+Hadoop+Spark運行環境，集成到IDEA中](https://www.newmediamax.com/article/1ifzoy6tzg7q6.html)
+它提供了Scala、Java、Python 和R 中的高級API，以及支持用於數據分析的通用計算圖的優化引擎。
+
+[別再不信了！阿里面試真的有內幕！擁有這份PDF的人全都上岸了！](https://www.newmediamax.com/article/1iy6psu86leed.html)
+面試是每個求職者都需要經歷的過程，尤其是在競爭激烈的IT行業中。這份PDF涵蓋了阿里面試的內幕，對於準備參加阿里面試的人來說無疑是一個寶貴的資料，希望這篇文章能幫助大家更好地了解阿里面試。
+
+[阿里大佬在GitHub分享！共計1658頁的Java崗面試核心MCA版？](https://www.newmediamax.com/article/1izwtljahjz99.html)
+2023年3月20日，我憑藉一份《Java面試核心知識點》成功拿下了阿里、字節、小米等大廠的offer，兩年的時間，為了完成我給自己立的flag，即使在職也一直在不斷的學習與備戰面試中!
+
+[學it有前途嗎？如何規劃IT職業發展？](https://www.newmediamax.com/article/1ib5jh6ugrj7w.html)
+學it有前途嗎?大多數職場人都沒有太多時間去參加長時間的培訓，所以只能選擇脫產式培訓，集中一段時間，系統學習行業知識，這樣才能專注於學習，在最短的時間內順利進入it行業。
+
+[Mybatis 中如何使用useGeneratedKeys 獲取自增主鍵](https://www.newmediamax.com/article/1ilvovlbrjwg4.html)
+注意:在settings元素中設置的全局useGeneratedKeys 參數對xml 後綴的mapper 無效。按理說，返回的結果應該是插入後主鍵中的真實數據，但返回結果是1。
+
+[零基礎學習Java，可以多看看這本書，從入門到精通，自學推薦書籍](https://www.newmediamax.com/article/1ilx05lrjutyw.html)
+養成一個好習慣需要21天，想學Java卻不知從何下手?每天放下手機半小時，跟著敲完21天，至少簡歷上可以加一條“熟悉Java” 吧。
+
+[軟件測試/測試開發| 接口自動化測試，實現多套環境的自動化測試](https://www.newmediamax.com/article/1inptw9gn0bp7.html)
+以上雖然實現了多環境的測試，但是每條測試用例都對應一個測試環境，一旦用例發生變化，那麼則每條用例都需要進行修改。
+
+[《瑰來花開》——谷底的向日葵](https://www.newmediamax.com/article/1iujjfrhyccuk.html)
+它代表著活力、生機、樂觀，每時每刻追隨著太陽，給人以無限的溫暖。今天，我們走進昆明瑰谷花卉種植有限公司，開始我們採訪到的如向日葵般的人物——范偉哲。
+
+[不懂Java 內存模型，就先別扯什麼高並發](https://www.newmediamax.com/article/1iqe2ibyhuc6d.html)
+文章收錄在GitHub JavaKeeper。我們以多核CPU 為例，每個CPU 核都包含一組「CPU 寄存器」，這些寄存器本質上是在CPU 內存中。
+
+[PHP這門語言還有市場麼？](https://www.newmediamax.com/article/1j1jjcrlvzznf.html)
+小編十年碼農，資深北漂，大廠小廠兜兜轉轉，閱項目無數，曾在入行之初對.net嗤之以鼻，對java 不屑一顧，卻對“PHP是世界上最好的語言”深信不疑，並誓言致死捍衛PHP的榮耀和地位。
+
+[《若依ruoyi》第十章：Ruoyi Sping Boot pom.xml構建詳解](https://www.newmediamax.com/article/1j1toig2twahz.html)
+Maven作為一個構建工具，不僅能幫我們自動化構建，還能夠抽象構建過程，提供構建任務實現;它跨平台，對外提供了一致的操作接口，這一切足以使它成為優秀的、流行的構建工具。 Maven不僅是構建工具，還是一個依賴管理工具和項目管理工具，它提供了中央倉庫，能幫我自動下載構件。
+
+[公司回應“求職者嫌8000工資太高要求降到2000”：崗位薪資本就是2-4k，網傳部分信息不實，已影響到招聘](https://www.newmediamax.com/article/1iwlhbrm4xnom.html)
+每經編輯：張錦河近日，“求職者嫌8000元工資太高要求降到2000元”引發關注，登上熱搜。
+
+[全解MySQL之架構篇：自頂向下深入剖析MySQL整體架構！](https://www.newmediamax.com/article/1iv8fbuns0ent.html)
+無論你是前端還是後端，只要是一個合格的開發者，對於MySQL這個名詞相信都不陌生，MySQL逐漸成為了最受歡迎的關係型數據庫，無論你是大前端，亦或是Java、Go、Python、C/C++、PHP...
+
+[推荐一個準確率99.9%的離線IP地址定位數據](https://www.newmediamax.com/article/1isls5sknrpqc.html)
+Ip2region是一個基於IP地址查詢的庫，它可以快速地定位IP地址所在的國家、省份、城市、運營商等信息。
+
+[助力金三銀四之HashMap](https://www.newmediamax.com/article/1irtrogmfvktk.html)
+又到了一年一度的的金三銀四的時間，大部分有跳槽意向的人會在這個時候選擇跳槽，因為這個時候工作機會相對來說會多點，但是面臨的挑戰也會更多點。
+
+[RSA + AES對前後端數據進行加密](https://www.newmediamax.com/article/1irdqjtzq1nb0.html)
+最終採用AES+RSA 組合進行接口參數加密和解密的方式脫穎而出，成為了當今主流手段。利用RSA 來加密傳輸AES的密鑰，用AES的密鑰來加密數據。
+
+[把代碼貼進去自動找bug，這個debug神器自動修復僅需幾秒](https://www.newmediamax.com/article/1illlpgfw9iir.html)
+該工具由OpenAI Codex 提供支持，Codex 是OpenAI 與GitHub 聯合發布的AI 代碼補全工具GitHub Copilot 背後的技術支撐。
+
+[互聯網大廠面試系列-面試被問到什麼是JVM的逃逸分析？](https://www.newmediamax.com/article/1iijovqlsjric.html)
+我們知道在JVM中有堆內存和棧內存之分，其中堆內存是一種通用的內存區域，用來存放所有的Java對象，運行效率比棧內存要低。而棧內存通常是位於RAM區域中的存儲空間，程序在運行過程中可以通過指針直接獲取到存儲在棧內存中的數據，其運行效率僅次於寄存器。
+
+[C#即將回到巔峰，Java呢？](https://www.newmediamax.com/article/1iuph66n4nd45.html)
+TIOBE前15名，C＃排名仍然沒有太大的變化，仍然是第5名。 C＃佔有率最高峰已經是十年前2012年的事情了，當時佔有率是8.76%，距離佔有率最高還差0.55%。
+
+[Hashmap 面試題+ Hashmap 原理+ Hashmap 源碼（史上最全）](https://www.newmediamax.com/article/1ivkeuz11rtbc.html)
+這里尼恩給大家做一下系統化、體系化的梳理，使得大家可以充分展示一下大家雄厚的“技術肌肉”，讓面試官愛到“不能自已、口水直流”。
+
+[寫出優雅漂亮代碼的50個小技巧](https://www.newmediamax.com/article/1itq0jnk0eerc.html)
+不知道大家有沒有經歷過維護一個已經離職的人的代碼的痛苦，一個方法寫老長，還有很多的if else ，根本無法閱讀，更不知道代碼背後的含義，最重要的是沒有人可以問，此時只能心裡默默地問候這個留坑的兄弟。
+
+[自學C#編程三天后的感受：跟VB真像、比Java舒服、學習資料豐富](https://www.newmediamax.com/article/1im1i2v1701eo.html)
+我最近開始系統性的學習C＃語言，最大的體會是C＃這門語言相當專業，難度比VB更高。搞C＃跟搞VB有很大不同，需要全神貫注翻閱專業文檔，跟我以前的野路子游擊隊Access的打法很大區別，C＃是正規軍，學習要求更高。
+
+[2022 大廠Android 高級面試上岸指南，祝你圓夢大廠，實現完美逆襲](https://www.newmediamax.com/article/1idazhr7cnxmv.html)
+如果你能掌握基礎同時又可以把JVM、類加載機制、多線程鎖、設計模式、還有一些數據結構比如了解清楚，通過面試的機率很大，現在面試HashMap 已經不簡單的了解一些簡單的原理，面試官希望聽到更深層的原理，所以在這塊下點功夫還是很有用的。
+
+[別再說代碼質量難評估了！ SonarQube一鍵分析代碼質量他不香嗎？](https://www.newmediamax.com/article/1ivq2tc1lqk97.html)
+關於Sonar Scanner 更多的內容，見官方文檔:Analyzing source code overview 見原文鏈接。
+
+[多線程第四集： 線程池簡介](https://www.newmediamax.com/article/1ilqqmt9miqt9.html)
+java 線程池的頂級接口是Executor， 只定義了一個方法execute，ExecutorService繼承接口Executor接口，並定義了其他的相關的接口，ExecutorService下面有一個繼承的抽像類AbstractExecutorService和實現了定時調度的接口ScheduledExecutorService，而又有兩個類繼承抽像類，分別是ThreadPoolExecutor和ForkJoinPool，而ScheduledThreadPoolExecutor則實現接口實現ScheduledExecutorService接口和繼承ThreadPoolExecutor類，基本的關係就是這樣的，而且基本常用的封裝方法都在Executors類中，只要Executors.xxxx 就可以應用對應的封裝的方法。
+
+[僅僅會一門編程語言其實和會PS沒什麼區別](https://www.newmediamax.com/article/1im2q4ltq12qr.html)
+什麼是CPU，就是它有很多引腳，在一些引腳上按規律輸入高低電平，同時在一些引腳上就能讀取出一定規律的高低電平。
+
+[從JVM 中深入探究Synchronized](https://www.newmediamax.com/article/1inpfcd91tx6l.html)
+在Java 中，如果要實現同步，Java 提供了一個關鍵詞synchronized 來讓開發人員可以快速實現同步代碼塊。
+
+[終於不慌內捲了，多虧阿里內部的並發圖冊+JDK源碼速成筆記](https://www.newmediamax.com/article/1iq6546gqshkz.html)
+Java並發在近幾年的面試裡面可以說是面試熱點，每個面試官面試的時候都會跟你扯一下並發，甚至是高並發。面試前你不僅得需要弄清楚的是什麼是並發，還得搞清什麼是高並發!
+
+[程序員開發10餘年無法突破架構師？那是因為這個環節沒做對](https://www.newmediamax.com/article/1iq61tqbzm88k.html)
+“架構師”對於程序員來講，一定是大部分程序員所追求以及渴望達到的一個高度。那麼，到底需要達到什麼要求才能算是架構師呢?
+
+[Apache iotdb-web-workbench 認證繞過漏洞CVE-2023-24829](https://www.newmediamax.com/article/1iuu6v4jz27mu.html)
+發現後台的jar 包沒有編譯成功拷貝到容器內，所以先進入backend 執行mvn package 編譯jar 。
+
+[那些年，Kotlin 都截胡了哪些Java 新特性](https://www.newmediamax.com/article/1int6au4c8gmd.html)
+JEP 378: 文本塊在Java 15 完成預覽並最終發行，其提供了一種更好的描述多行字符串的方式，而不是通過添加\n 這樣的轉義序列表達:在Kotlin 中，文本塊同樣被支持:JEP 401: Primitive Classes。
+
+[免息“助學分期”？軟帝在線及旗下黑碼研創被指誘導借貸](https://www.newmediamax.com/article/1isdm534ih4br.html)
+中國網財經3月17日訊(記者安然朱玲王金瑞) “0元入學”“先學後付”“一邊兼職接單一邊還款”教育培訓火熱的同時，也引發不少消費者投訴。
+
+[學習Java快速入門全流程體系介紹-Java基礎語法](https://www.newmediamax.com/article/1ipxru7pfupzg.html)
+運算符:Java中常用的運算符包括算術運算符、賦值運算符、比較運算符、邏輯運算符等。數組:Java中的數組是一個容器，可以存儲多個同類型的元素，數組的元素可以通過下標來訪問。
+
+[一篇文章帶你打開面向對象編程的新大門！即掌握Java反射](https://www.newmediamax.com/article/1ivr3vhuhtwe1.html)
+Java反射是指在運行時獲取對象信息，並且可以動態操作該對象，而無需事先知道該對象的靜態類型。 Java 反射提供了java.lang.reflect.Proxy 類來實現動態代理。
+
+[互聯網大廠面試-關於Java中的Stream的用法](https://www.newmediamax.com/article/1il7p9w51m0qg.html)
+在Java中，集合和數組作為我們經常用到的數據結構，幾乎所有的容器相關的實現接口，都離不開數組和集合這兩種數據結構。
+
+[GO語言學習有感，不建議學習](https://www.newmediamax.com/article/1ipwgf3a8c4l0.html)
+從事開發已經15年了，主要從事java語言開發，已有10餘年，期間搞過一段時間python、PHP、ASP、C＃、NodeJS，也說不出哪種語言孰好孰壞吧，沒有最好的語言，只有最合適的語言。
+
+[除了馮小剛，這幾位電影導演執導的電視劇，你對哪部作品感興趣？](https://www.newmediamax.com/article/1it94n8dla59w.html)
+馮小剛執導的網劇《迴響》雖然收官好久了，但是觀眾對該劇的吐槽卻一直沒停過。因為在影壇混不下去了，就去網劇網大領域忽悠，去嚯嚯另一群人。
+
+[如何使用Hilla管理全棧Java開發](https://www.newmediamax.com/article/1j18cp882zzuk.html)
+它結合了Spring Boot Java 後端和反應式TypeScript 前端，以及通過Lit 或React 進行的UI 設計，可以創建動態應用程序。
+
+[Flutter技術在哈囉兩輪的應用推廣](https://www.newmediamax.com/article/1is9upr6nx0xw.html)
+Android應用採用Java或Kotlin編寫，iOS應用採用Objective-C和Swift編寫，但當我們要去開發支持多端的應用，每一端都需要獨立研發、測試，直到上線。
+
+[微軟自動化神器【Playwright】（八）如何進行API接口測試](https://www.newmediamax.com/article/1iq17xm8s42m0.html)
+前言我喜歡週末，是因為可以做一些我自己喜歡的事。比如我插上耳機，寫點東西就能坐上一天，這也許算是屬於我自己的一份靜謐吧。
+
+[裸辭跳槽底氣！字節在職大佬“Java面試總匯2023”大廠都在考](https://www.newmediamax.com/article/1itlzthh9wv22.html)
+前言Java這一行入行容易，但想要精通可就不簡單了。不僅需要一定的運氣，能力更是必不可少的。而現在的互聯網行業懂得都懂，稍一鬆懈可能就會被社會淘汰，做為開發工程師的我們只有不斷的學習進步才能讓自己獲得更滿意的薪資和工作。
+
+[聊聊公司技術上的奇葩規定——計算機使用](https://www.newmediamax.com/article/1j0jotfphxirh.html)
+數據上沒有過多敏感性，不涉及到很多敏感數據，身份識別信息通常使用的是第三方平台，我們本地不存儲用戶身份信息。
+
+[中年人想當廢物哪有那麼容易](https://www.newmediamax.com/article/1ipj5wzakl6wp.html)
+有些小伙伴說非常喜歡博主聊既現實又扎心的話題，有助於保持清醒，那我今天再說些吧，如果你們不喜歡這個話題，也可以留言提醒。
+
+[你還在堅持JDK8嗎？](https://www.newmediamax.com/article/1it1mlxol0ido.html)
+目前，國內大部分公司還是堅守JDK8 ，與其說公司在堅持，還不如說是大家不願做出改變，因為JDK足夠穩定了，為什麼要換?
+
+[「 Java 基礎-Lambda 」試試Lambda 表達式？通俗易懂得嘞!](https://www.newmediamax.com/article/1ipzrja6kwlq8.html)
+前言Lambda表達式是JDK8的一個新特性，可以取代大部分的匿名內部類，寫出更優雅的Java代碼，尤其在集合的遍歷和其他集合操作中，可以極大地優化代碼結構。 JDK也提供了大量的內置函數式接口供我們使用，使得Lambda表達式的運用更加方便、高效。
+
+[Oralce JDK和Open JDK的區別與聯繫](https://www.newmediamax.com/article/1iyb964c3v5tj.html)
+這篇文章中，將會展示Oracle JDK和Open JDK的區別，首先會各自介紹下它們，然後再對比一下它們的區別，最後給大家列舉一下其它實現JDK的開源組織或公司。
+
+[JDK8 新特性全面總結（5大最實用新特性及其應用）](https://www.newmediamax.com/article/1iwkipysxrnsp.html)
+2014 -2023 年期間，Java 從JDK8 到JDK20 一共發布了13個版本，但JDK8 依然是當下最受歡迎的，並且穩如泰山。
+
+[一文聊透如何監控Kafka 服務](https://www.newmediamax.com/article/1ixype6ysy1wn.html)
+今天我們來講解幾款Kafka 常用可視化監控工具，主要有以下幾個「JConsole」、「Kafka Manager」、「Kafka Offset Explorer」、「KafkaOffsetMonitor」、「LogiKM」。
+
+[hadoop之mapreduce快速上手](https://www.newmediamax.com/article/1io94f8avzm7r.html)
+需求描述將每一行文本數據變成<單詞,1>這樣的k，v數據將相同單詞的一組k，v數據進行聚合：累加所有的v例如可以創建多個文件，內容格式如下hello javahello python。 。 。 。
+
+[輕鬆解讀源碼系列之Java集合ArrayList（上）](https://www.newmediamax.com/article/1ipan1vzpmddo.html)
+大家好，我是程序員xiao熊，本篇內容將為大家Java集合中ArrayList的源碼解析，本篇是源碼解讀系列的第一篇，後續還會有其他的源碼解讀分享，如果大家有想要了解的內容，可以寫在評論中，或者私信告訴我;
+
+[墮落Java vs 新貴Python，你認可嗎？](https://www.newmediamax.com/article/1j7llypsgyotg.html)
+歷史和普及度:Java從1995年開始存在，是許多大型企業應用的首選語言。跨平台:Java的座右銘是“Write Once， Run Anywhere”，它可以在任何安裝了JVM的設備上運行。
+
+[stackoverflow：計算兩個整數的最小公倍數的最有效方法是什麼？](https://www.newmediamax.com/article/1ilrwujxg5s78.html)
+What is the most efficient way to calculate the least common multiple of two integers?
+
+[100個Java工具類之24：強大的Java工具包Hutool（上）](https://www.newmediamax.com/article/1j59s36vp38cs.html)
+類型轉換想必給java新手們造成過很多麻煩，Hutool可以幫助你輕鬆完成類型轉換，而無需關注內部實現，但本人建議還是要掌握內部邏輯，不然只會使用，應付不了面試。
+
+[“堆內存持續佔用高且ygc回收效果不佳” 排查處理實踐](https://www.newmediamax.com/article/1iqqryb6wlwzg.html)
+作者：京東零售王江波說明：部分素材來源於網絡，數據分析全為真實數據。一、 問題背景自建的兩套工具，運行一段時間後均出現內存佔用高觸發報警，頻繁young gc且效果不佳。曾經嘗試多次解決，因各種原因耽擱，最近下定決心處理此問題。
+
+[50道Java集合經典面試題（收藏版）](https://www.newmediamax.com/article/1ikyzxm0cxtz8.html)
+Freemen為了做好大家面試路上的助攻手，對於java這塊心裡還沒底的同學，特整理50道java常見面試題，讓你面試不慌，爭取Offer拿到手軟!
+
+[JVM參數太多？一網打盡常用JVM參數！](https://www.newmediamax.com/article/1iq54lj8j47ib.html)
+本篇文章將介紹JVM參數的分類，以及GC日誌、運行時內存區、OOM、垃圾收集器相關的常用參數。棧是線程私有的，設置太大且創建線程多的場景下，可能會內存不足導致OOM。
+
+[Java技術乾貨|JVM常用的監控工具](https://www.newmediamax.com/article/1j5z9apif7p5b.html)
+JVM監控工具的命令行方式jstat示例：jstat -gc這個命令用於監控JVM的垃圾收集統計信息。需要將替換為Java進程的進程ID。
